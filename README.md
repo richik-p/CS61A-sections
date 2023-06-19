@@ -10,6 +10,14 @@
 
 All weekly materials for our section (lab assignment, discussion worksheet, slides, solutions, etc.) will be linked here
 
+## Resources
+
+- [Anonymous Feedback](https://forms.gle/UHi7WvpQ7pkKVdYR7)
+- [Course Website](https://cs61a.org/)
+- [Ed Discussion](https://edstem.org/us/courses/40197/discussion/)
+- [Office Hours](https://cs61a.org/office-hours/)
+
+
 ## About Me
 
 - I'm Richik Pal, a tutor for CS 61A at UC Berkeley for Summer 2023
