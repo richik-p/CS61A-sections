@@ -20,6 +20,6 @@ All weekly materials for our section (lab assignment, discussion worksheet, slid
 
 ## About Me
 
-- I'm Richik Pal, a tutor for CS 61A at UC Berkeley for Summer 2023
+- I'm Richik Pal, a tutor for CS 61A at UC Berkeley
 - Discussion: TBA
 - Office Hours: TBA
